@@ -3,7 +3,7 @@
 ##Install and Build
 ```
 npm install
-npm build
+npm run build
 ```
 
 ##Run ES6 code
